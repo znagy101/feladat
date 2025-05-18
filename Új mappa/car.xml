@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cars> 
+  <Car> 
+    <Id>1</Id> 
+    <Model>Toyota Corolla</Model> 
+    <TotalDistance>3689</TotalDistance> 
+    <DistanceSinceLastMaintenance>24</DistanceSinceLastMaintenance> 
+  </Car> 
+  <Car> 
+    <Id>2</Id> 
+    <Model>Honda Civic</Model> 
+    <TotalDistance>324</TotalDistance> 
+    <DistanceSinceLastMaintenance>11</DistanceSinceLastMaintenance> 
+  </Car> 
+  <Car> 
+    <Id>3</Id> 
+    <Model>Ford Focus</Model> 
+    <TotalDistance>1234</TotalDistance> 
+    <DistanceSinceLastMaintenance>198</DistanceSinceLastMaintenance> 
+  </Car> 
+</Cars>

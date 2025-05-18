@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Customers> 
+  <Customer> 
+    <Id>1</Id> 
+    <Name>John Doe</Name> 
+    <Balance>150.0</Balance> 
+  </Customer> 
+  <Customer> 
+    <Id>2</Id> 
+    <Name>Jane Smith</Name> 
+    <Balance>200.0</Balance> 
+  </Customer> 
+  <Customer> 
+    <Id>3</Id> 
+    <Name>Alice Johnson</Name> 
+    <Balance>300.0</Balance> 
+  </Customer> 
+</Customers>
